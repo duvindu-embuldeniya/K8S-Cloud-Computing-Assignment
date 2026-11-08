@@ -1,0 +1,5 @@
+K8S-Microservices-Deployment/.env
+K8S-Microservices-Deployment/venv/
+K8S-Microservices-Deployment/db.sqlite3
+K8S-Microservices-Deployment/media/
+
